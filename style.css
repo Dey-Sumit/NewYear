@@ -11,6 +11,16 @@ html, body {
 body {
   background: #030321;
   font-family: 'Baloo Da 2', cursive;
+  position: relative;
+}
+
+.main-canvas {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translateY(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 svg {
