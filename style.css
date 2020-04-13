@@ -1,6 +1,8 @@
 /* font-family: 'Baloo Da 2', cursive;
 font-family: 'Galada', cursive; */
 /* @import url(https://fonts.googleapis.com/css?family=Montserrat); */
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+
 html, body {
   height: 100%;
   font-weight: 800;
@@ -125,4 +127,5 @@ h4, h5 {
 
 h5 {
   font-size: 15px;
+  font-family: 'Courgette', cursive;
 }
